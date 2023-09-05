@@ -8,7 +8,7 @@ youtube = build('youtube', 'v3', developerKey='AIzaSyD5bZRMzYLh8JoMp2wjDN2ODftSl
 
 # Search for YouTube Shorts
 search_response = youtube.search().list(
-    q='gopal laddu',
+    q='makan chor',
     type='video',
     videoDuration='short',
     order='relevance',

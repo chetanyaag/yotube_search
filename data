@@ -1,0 +1,13 @@
+curl -i -X GET \
+ "https://graph.facebook.com/v17.0/105686365927994?fields=instagram_business_account&access_token=EAACL2GIQVx4BO9zppnWGDKG8dgc3ZAk7qzgqDPVHfSTdW8p2EaZCc7ytd9K7qT9dwUjLmXZAD2mnCMAqEQ1ZBp0M5XZBU3ovnpFNZC90vHDr6XznomqDgzyteZCKXiZAHKESVq2rYRpNbN7Dp5evSQgBVFtjOSU0gFsdc3ujjU7FuLK9pHcQwisafUvTwgXEjH2bJxZBNQW6Gi7gYLu5CD2OHun5DhQZDZD"
+
+
+{
+  "instagram_business_account": {
+    "id": "17841460279593500"
+  },
+  "id": "105686365927994"
+}
+
+
+{'id': '17868791087931055'}
