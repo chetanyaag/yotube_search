@@ -5,6 +5,6 @@ WORKDIR /app
 
 RUN pip install google-api-python-client pytube
 
-COPY downloadvVdeo.py ./
+COPY download.py ./
 
-CMD python downloadvVdeo.py
+CMD python download.py
