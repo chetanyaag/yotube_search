@@ -14,6 +14,11 @@ try:
         raise ValueError("not connected")
 
     cursor = connection.cursor()
+
+    new_database = "botverse"
+    cursor.execute(f"USE {new_database}")
+
+
     youtube = build('youtube', 'v3', developerKey='AIzaSyD5bZRMzYLh8JoMp2wjDN2ODftSl_SFhB8')
 
     keyword_to_search = 'makan chor'
