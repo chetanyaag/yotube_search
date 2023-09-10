@@ -21,7 +21,7 @@ try:
 
     youtube = build('youtube', 'v3', developerKey='AIzaSyD5bZRMzYLh8JoMp2wjDN2ODftSl_SFhB8')
 
-    keyword_to_search = 'makan chor'
+    keyword_to_search = 'natkhat kanha'
 
     search_response = youtube.search().list(
         q=keyword_to_search,
