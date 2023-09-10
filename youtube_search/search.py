@@ -29,7 +29,7 @@ try:
         videoDuration='short',
         order='relevance',
         part='snippet',
-        maxResults=5
+        maxResults=100
     ).execute()
 
 
