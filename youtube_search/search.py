@@ -34,13 +34,15 @@ try:
 
 
     for i in search_response['items']:
-        video_title = i["snippet"]["title"]
-        video_id = i["id"]["videoId"]
-        json_text = json.dumps(i)
-        sql_query = "INSERT INTO videos (title, youtube_video_id, youtube_raw_response) VALUES (%s, %s, %s);"
-        # Execute the query with the provided values
-        cursor.execute(sql_query, (video_title, video_id, json_text))
-
+        try:
+            video_title = i["snippet"]["title"]
+            video_id = i["id"]["videoId"]
+            json_text = json.dumps(i)
+            sql_query = "INSERT INTO videos (title, youtube_video_id, youtube_raw_response) VALUES (%s, %s, %s);"
+            # Execute the query with the provided values
+            cursor.execute(sql_query, (video_title, video_id, json_text))
+        except Exception as e:
+            continue
     connection.commit()
 except Exception as e:
     print(e)
