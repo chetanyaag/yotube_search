@@ -20,8 +20,19 @@ try:
     create_table_query = """
     CREATE TABLE IF NOT EXISTS videos (
         id INT AUTO_INCREMENT PRIMARY KEY,
-        name VARCHAR(255),
-        age INT
+        title text,
+        youtube_video_id VARCHAR(255) unique ,
+        youtube_raw_response text,
+        duration INT,
+        is_uploaded_s3 bool default 0,
+        is_deleted_server bool default 0,
+        s3_link VARCHAR(255),
+        s3_filename VARCHAR(255),
+        is_uploaded_instagram bool default 0,
+        is_deleted_s3 bool default 0,
+        instagram_container_id VARCHAR(255),
+        instagram_pubslished_id VARCHAR(255),
+
     )
     """
     cursor.execute(create_table_query)
