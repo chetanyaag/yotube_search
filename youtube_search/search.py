@@ -32,8 +32,9 @@ try:
         video_title = i["snippet"]["title"]
         video_id = i["id"]["videoId"]
         json_text = json.dumps(i)
-        sql = 'insert into videos (title, youtube_video_id, youtube_raw_response) VALUES ({video_title}, {video_id}, {json_text})'.format(video_title=video_title, video_id=video_id, json_text=json_text)
-        cursor.execute(sql)
+        sql_query = "INSERT INTO videos (title, youtube_video_id, youtube_raw_response) VALUES (?, ?, ?)"
+        cursor.execute(sql_query, (video_title, video_id, json_text))
+
     connection.commit()
 except Exception as e:
     print(e)
