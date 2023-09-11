@@ -1,6 +1,7 @@
 import requests
 import mysql.connector
 import os
+import time
 instagram_id = "17841460279593500"
 token = "EAACL2GIQVx4BO1QHLzZCPasga3ylZCoHLZC03VwHnbHIuRlncB7YGtdRyNOdYoRjot0pPWK8CyKezZAZAiZAbEhlBhJelqyDpDSY0GpRgHRZBHmoVTQxukITrqvZCxc0azn51RIa1y6GZCglUSaVUgV960a4bwC5olqiwOEngpTYcx98KhFTZAukthskx7ZCLt44EFK"
 url = "https://graph.facebook.com/v17.0/{}/media?access_token={}".format(instagram_id, token)
@@ -49,12 +50,17 @@ try:
     sql_query = "SELECT * FROM videos where is_downloaded_server=1 and is_uploaded_instagram=0"
     cursor.execute(sql_query)
     results = cursor.fetchall()
-    for result in results:
+    index = 0
+    for result in results[:3]:
+        index = index + 1
+        if index >1:
+            break
         try:
             video_url_s3 = r"https://instagram-video.s3.ap-south-1.amazonaws.com/" + result["youtube_video_id"]+".mp4"
             post_video_response = post_video(video_url_s3, result["title"], instagram_id, token)
             creation_id = post_video_response["id"]
             print(post_video_response)
+            time.sleep(5)
             sql_query = "UPDATE videos SET instagram_container_id = "+str(creation_id)+" WHERE id = "+ str(result['id'])
             cursor.execute(sql_query)
             post_container_response = publish_container(creation_id, instagram_id, token)
@@ -64,7 +70,6 @@ try:
             cursor.execute(sql_query)
             sql_query = "UPDATE videos SET is_uploaded_instagram =1 WHERE id = "+ str(result['id'])
             cursor.execute(sql_query)
-            break
         except Exception as e:
             print(e)
     connection.commit()
