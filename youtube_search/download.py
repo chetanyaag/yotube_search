@@ -39,7 +39,7 @@ try:
             # strm.download("videos")
             strm.download("videos", file_name)
 
-            sql_query = "UPDATE videos SET is_downloaded_server = 1 WHERE id = "+ result['id']
+            sql_query = "UPDATE videos SET is_downloaded_server = 1 WHERE id = "+ str(result['id'])
             cursor.execute(sql_query)
         except Exception as e:
             print(e)
