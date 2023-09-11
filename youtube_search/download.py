@@ -32,16 +32,18 @@ try:
             file_name = video_id +".mp4"
 
             if duration_seconds > 90:
-                # raise Exception('large video duration')
-                continue
-
-        
+                raise Exception('large video duration')
+                
             strm = yt_video.streams.get_by_resolution("720p")
 
             # strm.download("videos")
             strm.download("videos", file_name)
+
+            sql_query = "UPDATE videos SET is_downloaded_server = 1 WHERE id = "+ result['id']
+            cursor.execute(sql_query)
         except Exception as e:
             print(e)
+    connection.commit()
 
 except Exception as e:
     print(f"An error occurred: {str(e)}")
