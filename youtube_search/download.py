@@ -31,7 +31,8 @@ try:
         file_name = video_id +".mp4"
 
         if duration_seconds > 90:
-            raise Exception('large video duration')
+            # raise Exception('large video duration')
+            continue
 
     
         strm = yt_video.streams.get_by_resolution("720p")
