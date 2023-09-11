@@ -24,6 +24,7 @@ try:
         youtube_video_id VARCHAR(255) UNIQUE,
         youtube_raw_response TEXT,
         duration INT,
+        is_downloaded_server BOOL DEFAULT 0,
         is_uploaded_s3 BOOL DEFAULT 0,
         is_deleted_server BOOL DEFAULT 0,
         s3_link VARCHAR(255),

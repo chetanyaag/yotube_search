@@ -1,11 +1,29 @@
 from pytube import YouTube as YT
-
+import mysql.connector
 video_id = "8ERbrByKLBk"
 vi_url = r"https://www.youtube.com/shorts/"
 video_url = vi_url + video_id
 
 try:
-    print(video_url)
+    connection = mysql.connector.connect(
+        host='127.0.0.1', 
+        user='chetanya',
+        password='password',
+        port=3306
+    )
+
+    if connection.is_connected():
+        print("Connected to MySQL database")
+
+    cursor = connection.cursor()
+
+    new_database = "botverse"
+    cursor.execute(f"USE {new_database}")
+
+    sql_query = "SELECT * FROM videos where is_downloaded_server=0"
+    result = cursor.execute(sql_query)
+    results = result.fetchall()
+
     yt_video = YT(video_url)
     duration_seconds = yt_video.length
     print(duration_seconds)
