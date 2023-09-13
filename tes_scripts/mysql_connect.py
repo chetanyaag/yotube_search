@@ -32,7 +32,11 @@ try:
         is_uploaded_instagram BOOL DEFAULT 0,
         is_deleted_s3 BOOL DEFAULT 0, 
         instagram_container_id VARCHAR(255),
-        instagram_published_id VARCHAR(255)
+        instagram_published_id VARCHAR(255),
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP;
+        garbage TEXT,
+        logs TEXT
     )
     """
     cursor.execute(create_table_query)
