@@ -47,7 +47,7 @@ try:
     new_database = "botverse"
     cursor.execute(f"USE {new_database}")
 
-    sql_query = "SELECT * FROM videos where is_downloaded_server=1 and is_uploaded_instagram=0"
+    sql_query = "SELECT * FROM videos where is_uploaded_instagram=1 and instagram_container_id is not null;"
     cursor.execute(sql_query)
     results = cursor.fetchall()
     index = 0
