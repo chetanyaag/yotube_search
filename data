@@ -11,3 +11,18 @@ curl -i -X GET \
 
 
 {'id': '17868791087931055'}
+
+
+29 18 * * * /usr/bin/python3 /home/ubuntu/youtube/yotube_search/post_instagram/post_to_get_container_id.py >> /home/ubuntu/output.txt
+
+0 */6 * * * /usr/bin/python3 /home/ubuntu/youtube/yotube_search/post_instagram/post_to_instagram.py >> /home/ubuntu/post.txt
+
+
+ALTER TABLE videos
+ADD created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+ADD updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP;
+ADD garbage TEXT,
+ADD logs TEXT;
+
+
+ubuntu-s-1vcpu-1gb-blr1-01

@@ -20,7 +20,7 @@ try:
     new_database = "botverse"
     cursor.execute(f"USE {new_database}")
 
-    sql_query = "SELECT * FROM videos where is_downloaded_server=0"
+    sql_query = "SELECT * FROM videos where is_downloaded_server=0 and garbage is null"
     cursor.execute(sql_query)
     results = cursor.fetchall()
     for result in results:
@@ -43,6 +43,9 @@ try:
             cursor.execute(sql_query)
         except Exception as e:
             print(e)
+            sql_query = "UPDATE videos SET garbage = '"+ str(e).replace("'", '') +"' WHERE id = "+ str(result['id'])
+            print(sql_query)
+            cursor.execute(sql_query)
     connection.commit()
 
 except Exception as e:
