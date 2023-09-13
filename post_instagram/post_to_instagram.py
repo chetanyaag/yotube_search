@@ -47,28 +47,16 @@ try:
     new_database = "botverse"
     cursor.execute(f"USE {new_database}")
 
-    sql_query = "SELECT * FROM videos where is_uploaded_instagram=1 and instagram_container_id is not null;"
+    sql_query = "SELECT * FROM videos where instagram_container_id is not null and instagram_published_id is null limit 1;"
     cursor.execute(sql_query)
     results = cursor.fetchall()
     index = 0
-    for result in results[:3]:
-        index = index + 1
-        if index >1:
-            break
+    for result in results:
         try:
-            video_url_s3 = r"https://instagram-video.s3.ap-south-1.amazonaws.com/" + result["youtube_video_id"]+".mp4"
-            post_video_response = post_video(video_url_s3, result["title"], instagram_id, token)
-            creation_id = post_video_response["id"]
-            print(post_video_response)
-            time.sleep(5)
-            sql_query = "UPDATE videos SET instagram_container_id = "+str(creation_id)+" WHERE id = "+ str(result['id'])
-            cursor.execute(sql_query)
+            creation_id = result["instagram_container_id"]
             post_container_response = publish_container(creation_id, instagram_id, token)
-            print(post_container_response)
             instagram_published_id = post_container_response['id']
             sql_query = "UPDATE videos SET instagram_published_id = "+str(instagram_published_id)+" WHERE id = "+ str(result['id'])
-            cursor.execute(sql_query)
-            sql_query = "UPDATE videos SET is_uploaded_instagram =1 WHERE id = "+ str(result['id'])
             cursor.execute(sql_query)
         except Exception as e:
             print(e)
