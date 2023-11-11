@@ -1,0 +1,1111 @@
+Connected to MySQL database
+{'id': '17994576332270432'}
+Connected to MySQL database
+{'id': '18022280959673606'}
+Connected to MySQL database
+{'id': '18018513025776883'}
+Connected to MySQL database
+{'id': '17884270604930765'}
+Connected to MySQL database
+{'id': '17995070015493985'}
+Connected to MySQL database
+{'id': '18020027755696477'}
+Connected to MySQL database
+{'id': '18046050556506712'}
+Connected to MySQL database
+{'id': '18001562650898244'}
+Connected to MySQL database
+{'id': '17981038760295603'}
+Connected to MySQL database
+{'id': '18081910744381409'}
+Connected to MySQL database
+{'id': '17949766049578996'}
+Connected to MySQL database
+{'id': '17923175177693011'}
+Connected to MySQL database
+{'id': '17984477474384077'}
+Connected to MySQL database
+{'id': '17991015905094254'}
+Connected to MySQL database
+{'id': '18385934110024174'}
+Connected to MySQL database
+{'id': '18016629064833433'}
+Connected to MySQL database
+{'id': '17954305034663751'}
+Connected to MySQL database
+{'id': '18031310008536284'}
+Connected to MySQL database
+{'id': '18355828924072119'}
+Connected to MySQL database
+{'id': '18027226486624796'}
+Connected to MySQL database
+{'id': '18018824350772173'}
+Connected to MySQL database
+{'id': '18283974370148780'}
+Connected to MySQL database
+{'id': '18023193796709806'}
+Connected to MySQL database
+{'id': '18390951319039664'}
+Connected to MySQL database
+{'id': '17998030004148435'}
+Connected to MySQL database
+{'id': '18050495569486859'}
+Connected to MySQL database
+{'id': '18006880858988484'}
+Connected to MySQL database
+{'id': '18009478372932368'}
+Connected to MySQL database
+{'id': '18077078446399933'}
+Connected to MySQL database
+{'id': '18264746899091945'}
+Connected to MySQL database
+{'id': '18032247922541633'}
+Connected to MySQL database
+{'id': '17983790282231197'}
+Connected to MySQL database
+{'id': '18012769888820021'}
+Connected to MySQL database
+{'id': '17906150750836187'}
+Connected to MySQL database
+{'id': '17880650930959354'}
+Connected to MySQL database
+{'id': '18092991859369035'}
+Connected to MySQL database
+{'id': '18021362722753669'}
+Connected to MySQL database
+{'id': '18026438941726116'}
+Connected to MySQL database
+{'id': '18008813023844124'}
+Connected to MySQL database
+{'id': '18004503259903569'}
+Connected to MySQL database
+{'id': '17985310964522494'}
+Connected to MySQL database
+{'id': '17928511346780334'}
+Connected to MySQL database
+{'id': '18079767319394494'}
+Connected to MySQL database
+{'id': '17852778666038726'}
+Connected to MySQL database
+{'id': '17886690704937873'}
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ae6UADTqHddvGJuPlBwBjXq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ANzY6Z19THx96sh7zvJOvyE'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A74UzaF2NPcVB9VW9AnwKeX'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AKfxM52YAF2MP16Dr-0kAO7'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ap5ZyifQXCc074bW4F9k8_P'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AnQE2Hw9viXeF2taPvPDiAv'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'APAk-OjIZwM8TK6oVrk-hjT'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AU3_8Qa4n96XjBvtc0SvfZz'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A2FLulR38HNu0c38YYic2wx'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AawDZ-0l6w2BPithVTtXDOk'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ATtdT28VbjaQm-uLbm1-QzW'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AtlgX5yF3fwn5V8J7QmnvAf'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AcF3hcU0hIx5-Da1FiubjbO'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A9XwuotjDY2-4470jgFsSmQ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ApD4DXKvL0zgnaI7tOl_18K'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Acc-8EdVO_L7t5zv7G3GYTk'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AfG7hPIJUNQH5NN8jtN20ID'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A2elL3MFdfPHYzT8cPx_0mJ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AYTRE2NVKpu7zFpS_3Gme3J'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A-PdatRVy1hRcYaGLV7F59K'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A3uW9-TNXAudxqsgEoHMJIR'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AzU3W6wnPwNgv33Bh-g832-'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AGOOYoAXMJDFNd9uGBPQTAe'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AOFTLcEiovN3-ofarwh12jM'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AKS_89Q8PM0Lg9RXOUVueyJ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AqV2gy2qRUJf12tx87BuTkr'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Agz-1HT7CP7zzKlujZbXdc5'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AjJPXXx_BneFK4dLLd05DfF'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AD7rhgOC6wwqz2dUjSD9tQ-'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AfNI9RD-IUgigj2_Gp0pvj2'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AUv7pyzLfJQKpT7xmhdddNW'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A5QbITclXu7CrO1T-MGD2oz'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AAhfYCWBEz16CtnypBIf5rT'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AvVZ2pB8e3zkX9yFdq_DhdE'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A7tMDugjex6-Rz-C5QB1tks'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A-e0e5jXlz0OuUYxMnKgiEX'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A8aRH5SepC-tAfMebpbL0oR'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AW3U_Dsu8Wnzf_i8GyrRKz9'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AsSQ4T7hYXiStbNez6X5Vtk'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Az3vvKC166ytJuR5FrERyde'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ANRBhOqlHNDnpHetH035xuX'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AGR99_VTKR2wt8-2-3u_g9p'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AzgDGlcONhcR6kKzZlsMvJL'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AtkGhwK0Qo-oRKMesefMkX0'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A_JhlyT944Gt4frSyE9o6QF'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AWsV76LlNLGBlM478mG2CBR'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AixDz8HzNE1VJ4QTWxhbB_y'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A45P4IYLwWKiIdmNbSXJsjb'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AXKRxv8Q4GdIrOXayODTgGx'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Asx2dRGf7qNKXH_BDfvC5xi'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AB3rFXm_QGjT5CXyb-fZbjq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AZZLwUayBxPNeYIRBEUXUU8'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AAO2i5tcls5a64IzwJG8WL6'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AepGTG8BpL-HL5Q3Qr6H9Hf'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ar-LeubOrALNEabtKekbhTl'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AndSavM5UF7nT-hDJ5ZMVnP'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ALZl7unYzMP2VXsvkADqJrT'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AgicFLUV6EHjQL_Ev36EZ-j'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ANp1U92XD636eVhTJsLV44x'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A2JTyD2rHq77NjKy3DM4snT'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AhWNb-IHRIqKxRlLtnKGUzQ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A1gRwNm2bSw8wiPQB13YRL5'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AZ_EYY-izFYZqQHw7_Ov8EO'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AUG1zTb6HSaVQ_sPppgNYqS'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ai-QNkpxAs_G7jCq2nLeu5d'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AcIT1X-XlXHA1J_4YG2EaWG'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ay2yt-6r8cdXRhoiyPDEYpM'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Aq9u8hyO5XWeJEwesAISZcY'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AsljjRsLvlAOQgoj82spXqM'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Adob0GXZKKHBtkBXxnctKYI'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ax-cm-l1Dsn2TrOpS-Y8YT-'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A7PdqY0hADTffOwwV8xkxip'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Al3K3UOqEC2hKf3lLf89URh'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A6GS5HB06O6c5_PpxnnAht5'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A8VD6WDf1CoxLQ2G6RchIsy'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AzdLy-Idnzp_8XhQTq0n8mF'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AyX65EyIs9Ezuio1IPIcucf'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AY6CoQD6ZY6aKPvYHQTKY8f'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'An20JMxfS051_Y6dkWWNYAn'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AHbMe_OI8270y9w2pvnn07-'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AG5njC41vbHe1GkD9E-FMyk'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AYh2fAUP6xe9u9xdt-eLlZS'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AZ7f7LRx5H-Kw5By-SLHzUo'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AXPXqa7rR41De7qFMOG6f8Y'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ae7v23MxtwMLPAm-tkRdqPq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AqfwqgerjJb8lnblDrwDr5R'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AjPf2Pn7mnGkPHjb_A3231G'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AyllHF8kQugbW5LvYo6w1ay'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AeNqI3EYR-Yz78bNU--5UYi'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ALyvhRhOn2_RIvM16jP9g45'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Aph12hLHrtf6Tmv3Q4cMP8l'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ayq-DpyIPiuoPzWbybkoWjc'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AqVeR_3g0Dg-C0Tzu7bMe97'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AsVw34iYf1eOBQ4zIgELLiF'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AtGOtjj_NRz0iWG5IneSEWA'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AZB4uIpA_t2XLEfWxUu-bQy'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ay7AJowtxXg51YiC4xMlcUn'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Aqr-AfvRq89cAjFDkOcigXs'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ABW-n7n0uJWvAXm4c_ewzT2'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AOWA3z9gH2-QuNZWNdBhgyp'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Aw2ODQGuece_Me5c7Lb7NSK'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A5xD_lpf9SDXz2iBOUcggqt'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A4JeKeoKM7scV-gif76wFX7'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'An631Dt24i-Kx_Cg3er7XtT'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AZue-lCMuiu5QMuKbElxSQ6'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Aw4rfa_RX2d9mRp1C0uV7Zq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ADz6rvE0yeKZNqWLNKG8LlW'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AE2W1dkzqB4NqnGleBBnpo5'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AgFKwbfdIpWgeBKa8yShIBJ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A6M6LzllQkVxQTBrVDCktmp'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AshgoUE7KmMif46mSH1Eh2V'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AnJyse0lCcSKu6QF8BMXfsk'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AV4znrfJu4MuXnV1oTCS_Tr'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A5rMlaLCYCuKo3NwjO8qwTJ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AXvjDhpGbn-1knPGam2KBMh'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ArOIAmIUeBGFVQn4G0C8Ndz'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AwGWee7ftkDwbg39cWvOHhA'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A5L2vzyHDX1T8QmnHnjJkRC'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AkQqEpU8nNfmhZsfY-UseG1'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Adw_9YQlVjgmD3ZdFfYYNTF'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AzEnhoqy8PjNgS47g1Lao5R'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ARW7e4F2y_vUpUvUnNbcZ8o'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A44injASGVPfHdLKmdu_VA2'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AQG2p1GXvUzlole9uZnJoRq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AeMcJHOgWp6dIHUtKhgKI2n'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ADlYkLPOJ2dQGVaWfWcvk06'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AZvd6e_zAoWrFGKzE81VA0A'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Av0mH5TA4jsGUfs9TzStIaj'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AZuMdbVj-cN44F6VVjrAm8X'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Av5R_c5wKhtQmonSta8bHko'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AxfAcZc6Oo3Szeuf6305dRY'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AE6O2kr5nRfm_JiORDzE8LF'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A5DRviJiH5J9Pk67uOKiobb'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AVU0bYtrBxiG0dTmgqD4hhK'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AMWRZfaqgAFoJ8kp95L2BuE'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A9rN0UWB2DXE7S-GD7K0amF'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AnrSILj0Hgh9kXbUNM2w5af'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AA5SMJxfDFU0cB4ejlBmJK0'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AhGNAUtrf_BtauNixxYnQrc'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ApdsLw4_cVho8ntQ_Qvxi33'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ACr7owPmTScedBhoG3nh2oz'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AUETHf95gIK8GiqQG6e381o'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AepEYFwNhhAwDkRRPcDAMBl'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AHHEfCV1No7lf4uXQq6GAKy'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A4ZmnotReKpHr8dgCxv-ii5'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ae5hRKuxzeU32iGvqD3g1i_'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AUMUTLv5z2VT1qrud4ZXJ1a'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AXyxwfr98ceSR8yEP_mhfa0'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AvOoou8TpZVTjjD-rSBiTLu'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Afy5uqsj0yjsFaV49HP2xA4'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ATl8FiVUANBu64Md1fCZ0_E'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AKRGCE5BEv9jkJL9iCE1bqV'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AvRM1aTYqKsWdL4JrXn4Txg'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AMDA4mkhUfHjb2rNyxVi6L8'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A6dQ3u4nLLrZBGiAu5KSQoU'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A6fQE_ShfL_inR1ffImIfsE'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A9PMU_e9_ecw2aFrN92Q06R'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AOIz4bHW9BdSR5oOtVavdfi'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AYC45IuNRK1SXoBQHxeXiCH'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A3mcRUwQcytoWya5irLLmv9'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A81D5N_Oai38NhjD3qnpObD'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AbD-_uT64Z9MQJZUvqdLQ0d'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AKQN6v1gxAQAVgeI5hk2aI1'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A4Sma-thLnFZ2fI9PWUlwSu'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ARBk5mP9JjJ7DGnqEqnLAl1'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ASxW6mNwk-_3Q3yaxDlyE8o'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AJQIdBSNOcMkqaK5HbcWhHn'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AoUwZZi2jMk2aZf_Lu7xlSv'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AYDx5GCasQ8EEMJcdCqXwfj'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AT_08jF1-5mCmwiyHirdkiB'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ae5RBbIVZOSEZ3sCfB_N7ps'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A2yGy1Vdp5QPw7N4Scg8Muz'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'Ajxb0rSZA25nYi3DhM8iAlt'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'A_ahiQjZ4dRdhq_SbWGCp2A'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'ACfxy9NrEQySGeuI0SvRpWR'}}
+'id'
+Connected to MySQL database
+{'error': {'message': "The video file you selected is in a format that we don't support.", 'type': 'OAuthException', 'code': 352, 'error_subcode': 2207026, 'is_transient': False, 'error_user_title': 'Unsupported format', 'error_user_msg': 'The video format is not supported. Please check the specs for the supported streams format', 'fbtrace_id': 'AJ9NN5jYxYYyKIXtkIeC9U6'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 11:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ACM5Jl_QJtFATkE08k8Px4e'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 12:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AGBituyjCS2pqCxfFqS-XKw'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 13:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AIh7c9ki2mz1APDaUxRVIXa'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 14:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ABzEvumj7tBCdZW0GGWbX3q'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 15:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A_1bHnZVyZZhJknfPhQqYXx'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 16:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AtqR2HyjwoGlXQ0BmQ98h8z'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 17:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AU-1JY4xdnu85Vz5VPr6QjP'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 18:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AQNgfXSww4q9UM_Jv3xiSn4'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 19:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AyDIjG4N9INoLRhL4Mzae-K'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 20:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A2mj71KLXcrnOMStKHyBdhL'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 21:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'At4NdW2BDROvfHbFlpr8TKV'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 22:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A-ymWn80IhMChXQMJPkrZ_H'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 25-Oct-23 23:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Anes9eUe0xIZGomxMuHcsIv'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 00:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Auut5j-4AkbdhHGhRpqvws9'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 01:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AL2_8dVwu5w9bPEqcLES-4K'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 02:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Av36YVVicsHAMIGTnFcnZuE'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 03:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AnXKOwJrVmfGumPMFy0_qME'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 04:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Ar00HK81J0Fz0KmvAwmhdiB'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 05:10:07 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ABwMNEMiWYvpXUtguLs9R-m'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 06:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AAI4grCT72VyCc0cABkEbPB'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 07:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Amu0x2MAKgyjPZBYvLeNmti'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 08:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ATKFHd1OancAjKX1Dj6TRFA'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 09:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AUVit9Zmm1e5P163hvwgwW5'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 10:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ACXMvXCazFjAu3DlVOHazkS'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 11:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A0TJrBWy1QG7aE-84t6gJIi'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 12:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A34YHDpqHzTWW1j0xSDw6Vp'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 13:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ASouD-AU0DZ8OMIIIi5Gzci'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 14:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AUW7v7GhuRkUdeZWT4Jr1OQ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 15:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ARvhcadMTqN2XZh3jkGKi-D'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 16:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AUZwo19xKnxu7EiSDz5bjNO'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 17:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ARbn_SNLWuJLXKwinUJo1qy'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 18:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AYClTLBzBaZHYP9O572cxFw'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 19:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'At6fWleUNNdRDO6-1ZEmCTK'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 20:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AazvR2xKJFi44O1OZtSluLc'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 21:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A_wvAca5dBZ_6tHQzavRCoQ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 22:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AsUxhV6Tp1l9DL97v88obcz'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Thursday, 26-Oct-23 23:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'As4964dhINtBhG0IPzMnJQF'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 00:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AmfQNZfsZKZ8RggxiIvU8Ln'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 01:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A5eP-0DPQlJHUVdNYJ2R0Bl'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 02:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AfS9Ge9pXd3GtUBz5xqAOk2'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 03:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AD90VdH4YJab00nlPg8CN3C'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 04:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AlCMr0JOCv5Rgn9nTGtdjx0'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 05:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AJsb0jaljCqt5Yt8n3-AbPl'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 06:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AHe-UOhrLqgQaNiKYyq0B2R'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 07:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AxpAHRJpoc6LdeRdipaDCoA'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 08:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AoqtYl8ZaZ5nQasUz_Ja2Vx'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 09:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A0zeyLXjxQt_6N4SBE65Rzk'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 10:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AAivCueCR4E3eY_Ds0CZtsK'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 11:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AX9DF4aHHsuEQikz8iLAlkj'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 12:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ASgEMrsIbG7ocheK_xHI4C5'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 13:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ACD2h77quvlKRdR3WMekB7n'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 14:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A5vi5ea1vmeXooCRycg0B7a'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 15:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AsyIwukwTiGWYgMtqb5eNmb'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 16:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AEVq6EQL-mg-DiKEKl5iOtr'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 17:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ANQrnurmFHbpWWozq0LQhmk'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 18:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AQ6R_VV07Cww79jIa-UW-6n'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 19:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A4jJ2zldd0sLUCM2_VPKL1X'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 20:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ApBV8Oelzq6IkthvOuLxAOi'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 21:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A8vtJtgvgKf6z6_AEH4d5S1'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 22:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A2dEjPYTGRemVzgeP--mNO9'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Friday, 27-Oct-23 23:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AIdGoPVfeGeqTT9wbN8GmY2'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 00:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AVmyHqS-hK6aTaPbMn27wxF'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 01:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AW77oAAYMIK86XNNUGfjlu4'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 02:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AF2J_giqUjMzvkdpHTPZ5DF'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 03:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AWRGASTfAjPiX5GU_EKfg7e'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 04:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AVq7AKaiJW2MVMXpBsj6em2'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 05:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AKJEPET9TB7HUyNZZqXyydI'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 06:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AmiauwS3ybAUSpjZQZ3sjTq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 07:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A-JFwV_0JINiLbosacXFRxN'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 08:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A_CLhv7ZAhtt9EkjHHr9ysu'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 09:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A7ZL_ltlReExsHNr0x2pql1'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 10:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AFsYzrXcgNClKVDT-V9DIsH'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 11:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AGZygwdhYYosuM1PRyDTA2M'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 12:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ANy5nP0MHoFxx3c8D8hupse'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 13:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AsymgS1fgEk7HcBgNxs3sex'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 14:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ANDBNlT4P5AmhPLDpNFQV5-'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 15:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AM4xSdcjzibYJKJQqHzLCvr'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 16:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A0iUKuTk56kukdjOvFZMErA'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 17:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A2u32FcYtWmsP0A9C5gcZ4i'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 18:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AhxzN6BM1kIOPCNEE7qvS4L'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 19:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AhmoLpeqAqJZWqxVgclS_Tt'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 20:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Ap0CeBy_Iud5SbHhTYygqSq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 21:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AnDLMdk3GsukOVe0VA63OKf'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 22:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AfRgm3AjDg4iyxWMb8CBL5C'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Saturday, 28-Oct-23 23:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AvVlrJHk4s1HtsNPoNwjGD3'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 00:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AJxVB7kyHxqMiSGhvqGHC2O'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 01:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AA8G4CdQfbaq8WToza-NK6n'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 02:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A82Y2nlNSYeIX2tcVN5Yjud'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 03:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A-2uvwTY30uvtIMbZcAOkun'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 04:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A5lUs2RKcU3viuSgBaWpKcq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 05:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AzZgQMEqVaxVjLDEvSMrMPT'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 06:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A64Y8j3Gz3RAMaba5FajxSO'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 07:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A2wfS5MgKWab22gv_0H2zxM'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 08:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A0kODWice-6MpCtgwV5nIob'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 09:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A0DTdkn9TaNjBAyZYGhLDvj'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 10:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A0qF1euaEnqbUCCXUzGbcuN'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 11:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AAP6wyGQyZKXysd01oEoQhD'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 12:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AmWSDvgsJ-PX4DXdxHiy8xw'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 13:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A4xF5AA2Lgq2XFjGvXVWtk6'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 14:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AWDaqa8d6zS_S3L70Is28Yw'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 15:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AoOAxdYhcIAPvaSMWAeTS-2'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 16:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Ag2un_bw7YDhfy9m5jqabeK'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 17:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AueoSJVC1rRF5B4kYZy8uUs'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 18:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AMTScZkRiAZfzfuRM-kbDOY'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 19:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AXdEUPsLMRhWYrz-nj2MKa6'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 20:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A9foQEQQwuwVBqXywPeVaAf'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 21:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AqehGb6UNG2qBkvM_YqqbmR'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 22:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A86AvcZ2HLVDz4TyTfUXLuZ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Sunday, 29-Oct-23 23:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ApD31DVSEH4DmtAsnmGITR9'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 00:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AjS0oGsfhdpHnZVf8uTmHeq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 01:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AiE9zva5MqAzurhHC0-HaRJ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 02:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A4fuheZHB0VdB5ookNlWRS6'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 03:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A3NkXMpT1kOXHvvvrREe7mV'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 04:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AazmgFpZmMciNKXqAnBQ1Uc'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 05:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AKCVwAoEe8B7v5q57ImRcYo'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 06:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ADPC596XltpGcXE6vC1anmy'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 07:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ANwMwNfLqAtWDDEeRopMi2N'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 08:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A_j6CgXu0DnuTJItMTC6Ci1'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 09:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AyigG68yXN3VVhAUHQPgYRi'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 10:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AkjwRwBA5432Nr9O_aairGy'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 11:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AYWqErzMN9sxZQbimIk-MAM'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 12:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AYwPnOr4IQcIu-P8Wt2TdMY'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 13:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ANLxVjnHIpbEh21I2KDU86f'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 14:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A3_NfmjUGVuSnykJlAMdN-i'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 15:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Arad-x7Z0EQZt_kE0ubiTt9'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 16:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AbIaR22w9dV3iGQ6xAI1pcq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 17:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ANkXYiQYIra38XkHyv7UuD-'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 18:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Aj3ZXJlRXqdjBBQLZKqx3qf'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 19:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AF-9L2IkoiWKsiG9m5QrbRg'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 20:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AxqUxUrhSKzsjlPscVJ1rFh'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 21:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AjpPZXN2C1zJ4BG6id71v1M'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 22:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Atd8za1jJYQF8aejKIYD-rM'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Monday, 30-Oct-23 23:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A07NN2m2k3pmGnqInFG6uFL'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 00:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AkOQkD56kS6pbW6Z6y4HDpN'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 01:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A_MR7B34PPWPj4ii6k4BS22'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 02:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ARU8g0olC7yFBGbmAUar1z-'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 03:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AH6AQhflDDb3PRKoi8fyQ6o'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 04:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AdqEBeV446F7svxiRUza_G-'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 05:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AfTrbycAh8Kl1GuFw_5uxTx'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 06:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AQV_CP1-PJAkxVpbwXN2p5G'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 07:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A5YrBlELBBzoXNsSA3tIVM7'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 08:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AbbK1fYs9tOyYihN99gz-Kq'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 09:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AOimnpa8hu0gFq1MMmBWfUZ'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 10:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AcMXBF4bulUFplvYs0negX9'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 11:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AqyPFJmsgT3_281YkE_SMIR'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 12:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A1tS3StT5YehrT_fBGlREq9'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 13:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AJPWcdIFNgei3lDqggqR3Bt'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 14:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AMyA2JCxSALBpMzZ8FLhVb9'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 15:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AjfKuCMgF4t-sWGDE545OO5'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 16:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AAl8iN3OMOzpcJkrkTHXkTH'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 17:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AHprSg-XdNwdpUp8TyXEX6-'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 18:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AZRyK9TVfx4_BqKrYzvATAy'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 19:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'ABfcPDT-s-ZpIM8EtAi7a61'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 20:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'APSFX1Yr9zaH3F9XteHyIFo'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 21:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A2foPQENBEmaz7zwfH5H7KN'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 22:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AnHyjkY8RBBdJuV1UerxWWz'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Tuesday, 31-Oct-23 23:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AdOZbwxNtpDuj4lwERU-f5M'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 01-Nov-23 00:10:02 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Al1yMKuRcJ2t47-kNV8xzJs'}}
+'id'
+Connected to MySQL database
+{'error': {'message': 'Error validating access token: Session has expired on Wednesday, 25-Oct-23 10:41:07 PDT. The current time is Wednesday, 01-Nov-23 01:10:01 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AKB3v-h5Cgwov9rVWFjXpEr'}}
+'id'
