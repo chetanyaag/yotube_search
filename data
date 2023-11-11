@@ -26,3 +26,7 @@ ADD logs TEXT;
 
 
 ubuntu-s-1vcpu-1gb-blr1-01
+
+#* * * * * /usr/bin/python3 /home/ubuntu/youtube/yotube_search/post_instagram/post_to_get_container_id.py >> /home/ubuntu/output.txt
+#10 * * * * /usr/bin/python3 /home/ubuntu/youtube/yotube_search/post_instagram/post_to_instagram.py >> /home/ubuntu/post.txt
+             
